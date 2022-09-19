@@ -19,7 +19,7 @@ while computer_score < 3 and user_score < 3:
         print("Computer got a point") 
         print(computer_score, user_score)
 
-    elif computer == "scissors" and user == "rock":
+    elif computer == "scissors" and user == "paper":
         computer_score += 1
         print("Computer got a point") 
         print(computer_score, user_score)
