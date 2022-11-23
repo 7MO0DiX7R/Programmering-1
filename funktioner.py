@@ -52,10 +52,6 @@ def palindrom(ord):
     # TODO Returnera True om ord är ett palindrom
     # Ex: abba in - True ut
     # Palindrom är ett ord som stavas likadant baklänges och framlänges.
-    if ord[0] = ord[-1] and ord[1] = -2 and 2 = -3 and 3 = -4
-
-palindrom("anna")
-
  
 
 
